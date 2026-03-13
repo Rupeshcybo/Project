@@ -1,0 +1,5 @@
+{
+  "name": "AI Forex Signal Generator",
+  "description": "An AI-powered application that analyzes forex trading charts and generates real-time trading signals using Gemini.",
+  "requestFramePermissions": []
+}
